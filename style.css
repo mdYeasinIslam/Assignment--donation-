@@ -4,9 +4,9 @@
     background-image: url(donate-today-main/images/donation111.jpg);
 }
 
-.text-style {
+#text-style {
     text-align: center;
-    color: rgb(237, 193, 0);
+    color: rgb(195, 255, 0);
     padding-top: 70px;
     padding-left: 20%;
     padding-right: 20%;
@@ -23,12 +23,12 @@
     padding-right: 20%;
 }
 
-.pad-top {
-    padding-top: 30px;
+.set-margin {
+    margin-top: 10%;
 }
 
 .button-style {
-    background-color: rgb(4, 255, 71);
+    background-image: linear-gradient(rgb(174, 255, 0), rgb(94, 207, 59));
     border-radius: 15px;
     padding: 10px 25px 10px 25px;
 
@@ -38,7 +38,7 @@
     padding-top: 30px;
 }
 
-.mid {
+.set-center {
     font-family: 'Merriweather', serif;
     text-align: center;
     padding-left: 30%;
@@ -66,7 +66,7 @@
     font-family: 'Merriweather', serif;
 }
 
-.side-box {
+.display-box {
     display: flex;
     padding-left: 100px;
     padding-right: 100px;
@@ -145,7 +145,7 @@
     border: 4px solid rgb(236, 47, 47);
 }
 
-.footer-style {
+#footer-style {
     background-color: rgb(21, 23, 23);
     color: rgb(187, 12, 47);
     text-align: center;
