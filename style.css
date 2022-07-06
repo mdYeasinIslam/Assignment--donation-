@@ -1,4 +1,4 @@
-.start {
+#start {
     font-family: 'Merriweather', serif;
     height: 600px;
     background-image: url(/donate-today-main/images/donation111.jpg);
@@ -11,6 +11,10 @@
     padding-left: 20%;
     padding-right: 20%;
 
+}
+
+.header1 {
+    font-size: 70px;
 }
 
 .header {
