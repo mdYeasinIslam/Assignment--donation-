@@ -2,6 +2,7 @@
     font-family: 'Merriweather', serif;
     height: 600px;
     background-image: url(donate-today-main/images/donation111.jpg);
+    background-repeat: no-repeat;
 }
 
 #text-style {
