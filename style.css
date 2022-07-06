@@ -14,17 +14,109 @@
 }
 
 .header1 {
-    font-size: 50px;
+    font-size: 40px;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
-.click-style {
+.button-style {
     background-color: rgb(4, 255, 71);
     border-radius: 15px;
     padding: 10px 25px 10px 25px;
 
 }
 
+.set-section {
+    padding-top: 30px;
+}
+
 .mid {
     font-family: 'Merriweather', serif;
     text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.button-padding {
+    padding: 50px 50px 50px 50px;
+    font-size: 30px;
+    border: 2px white;
+}
+
+.showoff {
+    border: 6px solid rgb(4, 255, 71);
+    color: rgb(4, 255, 71);
+}
+
+.button-setup {
+    text-align: center;
+}
+
+.foot-text {
+    text-align: center;
+    color: rgb(71, 64, 64);
+    font-family: 'Merriweather', serif;
+}
+
+.side-box {
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+.box1 {
+    box-shadow: 2px 2px 2px 2px white;
+    padding: 5px 15px 5px 15px;
+    background-color: rgb(206, 222, 174);
+}
+
+.box2 {
+    box-shadow: 2px 2px 2px 2px white;
+    padding: 5px 15px 5px 15px;
+    background-color: rgb(196, 239, 166);
+}
+
+.box3 {
+    box-shadow: 2px 2px 2px 2px white;
+    padding: 5px 15px 5px 15px;
+    background-color: rgb(180, 253, 120);
+}
+
+
+
+.adjust-input {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 50px;
+}
+
+.input-style {
+    padding: 70px 250px 70px 250px;
+    background-color: rgb(246, 211, 179);
+    display: flex;
+    font-weight: 700;
+}
+
+.gap-add {
+    padding: 9px 40px 9px 40px;
+}
+
+.gap-add2 {
+    padding: 5px 20px;
+    background-color: rgb(236, 47, 47);
+    border-radius: 5px;
+    border: 4px solid rgb(236, 47, 47);
+}
+
+.footer-style {
+    background-color: rgb(21, 23, 23);
+    color: rgb(187, 12, 47);
+    text-align: center;
+}
+
+#color {
+    color: rgb(210, 226, 240);
 }
